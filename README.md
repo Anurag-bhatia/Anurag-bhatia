@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Anurag-bhatia
-- 👀 I’m interested in Artificial intelegence, cloud computing, Web devlopmnet
-- 🌱 I’m currently learning ... html CSS, C/C++
+### Hi There 👋
+- ⚡ I’m @Anurag-bhatia
+- 👀 I’m interested in Artificial intelegence, cloud computing.
+- ✨ I am intermediate in HTML, CSS, Javascript. 
+- 🌱 I’m currently learning ...Javascript, React Js.
 - 💞️ I’m looking to collaborate on ... Open Source projects
 - 📫 How to reach me ... contact.anuragbhatia@gmail.com
 
